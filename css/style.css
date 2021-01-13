@@ -33,7 +33,7 @@ body {
   align-items: center;
 }
 .swiper-slide img{
-  object-fit: cover;
+  object-fit: contain;
   max-width: 1040px;
   width: 100%;
   max-height: 100vh;
